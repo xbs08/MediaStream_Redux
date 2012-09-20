@@ -1,0 +1,63 @@
+New in V1.08 (09/11/2010)
+Changed the way Background & Fanart load (improves free RAM)
+Added MyGameSaves.xml
+Added Game Saves button to Programs sidemenu
+Added Wide Icon View to Programs
+Added DialogTextViewer.xml
+Fixed Video Library BG loading
+Fixed Video Settings BG loading
+Fixed Video Playlist BG loading
+Fixed Recently added in Movies and TVShows in HS
+Fixed Artist Discography/Biography label width
+Replaced Album info dialog (xbmc.org)
+Replaced DialogPluginSettings.xml
+
+New in V1.07 (07/25/2010)
+Changed skin folder name to the original name
+Changed autoscroll plot to ON by default
+Changed fanart view scrollbar to be visible even if only one page is available
+Added skin version to system info
+Added a fontset for PAL/NTSC 16x9 users
+
+New in V1.06 (07/09/2010)
+Added "Power On/Off" and "Play The Disc Drive" to the existing "Open your Favourites" button (press left or up to cycle)
+Added option to hide media flags
+Compressed added images to textures.xpr
+
+New in V1.05 (06/15/2010)
+Fixed hide/show info in fanart view file mode
+Changed Home System widget to be visible only on Xbox
+Removed the passthrough notification in volume bar
+Added an option to hide clock
+Added code to point to video playlists (no need to go thru userdata/playlists/video)
+Added PAL (4:3) folder with font.xml
+
+New in V1.04 (05/18/2010)
+Changed volume bar -dB font
+Changed clock label to a slightly bigger font
+Changed programs settings to General Settings window
+Added subtitle OSD script button and set path (skin settings)
+Added subtitle OSD script button (icon from Confluence)
+Added Homebrews & Dashboards to programs submenu
+Added an option to enable (home screen) "Videos - File Mode"
+
+New in V1.03 (05/13/2010)
+Changed Fanart View (Confluence)
+Changed Busy notification (Vision2)
+Added Show/Hide Info feature in Fanart View
+Added Skin Settings - Video Playlists shortcuts
+Added Custom Movies home submenu buttons
+Added Custom TV Shows home submenu buttons
+Added Genres to Music Submenu
+Added HDD temperature to Home System widget
+
+New in V1.02 (05/04/2010)
+Added a widget to System - Home (see Skin Settings to disable)
+Added 3 custom video submenus (see Skin Settings - Home Window)
+- After you created them your playlists (.xps) can be found in userdata/playlists/video.
+
+V1.01
+Added a Programs submenu, tweaked the shutdown dialog (removed standby, etc...)
+Resized the backgrounds (960*540) to improve free ram, made some tweaks, also to improve free ram, when fanart is enabled in Movies/TVshows
+Added a submenu visbible in library mode (Movies/TVShow only), something like the Rapier media bar, 
+ for easy navigation allowing to choose genres, year, director, recently added, etc without the need to go to home screen. 
